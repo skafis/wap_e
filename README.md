@@ -3,7 +3,7 @@ This is an app hat shows and describes the "chillspots" near your area of locati
 
 
 <h3>How it works</h3>
-log in using facebook, twitter or gmail
+. log in using facebook, twitter or gmail
 Choose a category based on how it works.
 Click on what attracts you and view the description of the chiilspot
 You may upvote/downvote
@@ -12,7 +12,7 @@ You may upvote/downvote
 Python
 
 <h3>Built by Who?</h3>
-[Elvis Kimemia](https://github.com/Elvisthacoder)
-[Frank Gwada](https://github.com/skafis)
-[Thumbi Migwe](https://github.com/thumbimigwe)
+[Elvis Kimemia](https://github.com/Elvisthacoder) <br>
+[Frank Gwada](https://github.com/skafis) <br>
+[Thumbi Migwe](https://github.com/thumbimigwe) <br>
 
