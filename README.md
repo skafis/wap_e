@@ -12,4 +12,7 @@ You may upvote/downvote
 Python
 
 <h3>Built by Who?</h3>
+(Elvis Kimemia)[]
+(Frank Gwada)[]
+(Thumbi Migwe)[]
 
