@@ -9,7 +9,7 @@ This is an app hat shows and describes the "chillspots" near your area of locati
 - You may upvote/downvote
 
 <h3>Technolgies used</h3>
-Python
+Python Django
 
 <h3>Built by Who?</h3>
 [Elvis Kimemia](https://github.com/Elvisthacoder) <br>
