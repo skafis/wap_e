@@ -7,3 +7,9 @@ class Top_spots (models.Model):
     image = models.ImageField(upload_to='photos', verbose_name='My Photo')
     name = models.CharField(max_length=200)
     description = models.CharField(max_length=500)
+
+class Popular (models.Model):
+    image = models.ImageField(upload_to='photos', verbose_name='My Photo')
+    name = models.CharField(max_length=200)
+    description = models.CharField(max_length = 500)
+    contact = models.CharField(max_length=10)
