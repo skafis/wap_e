@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+<div class="row hero">
+          <h2>WAP-E</h2>
+          <button> <a class="alert button" href="#openModal"> Log In </a></button>
+          <div id="openModal" class="modalDialog">
+              <div>
+                  <a href="#close" title="Close" class="close">X</a>
+                  <div class="popup">
+                      <h2>Sign in</h2>
+                      <p>Looking forward to seeing you soon, Wink Wink</p>
+   
+                      <hr/>
+                      <button  href="#" class = "Social facebook">Facebook</button>
+                      <button  href="#" class = "Social  twitter">Twitter</button>
+                      <button  href="#" class = "Social google">Google</button>
+                      <hr/>
+                      <p>You dont Have an Account?</p>
+                      <a href="#"> Sign up</a>
+                    </div>
+              </div>
+          </div>
+
+{% endblock content %}
